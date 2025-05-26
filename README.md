@@ -5,11 +5,11 @@ This desktop app blocks websites of your choice to help you avoid procrastinatio
 <li><a href='https://www.python.org/downloads/'>Install Python</a></li>
 
 ## Usage
-<li>
-  <ol>Run CMD as administrator</ol>
-  <ol>Navigate to the repository folder</ol>
-  <ol>Run `python main.py`</ol>
-</li>
+<ol>
+  <li>Run CMD as administrator
+  <li>Navigate to the repository folder
+  <li>Run `python main.py`
+</ol>
 
 ## Disclaimer
 The application **must be ran as administrator**; otherwise, it won't work.
