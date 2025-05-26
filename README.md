@@ -3,7 +3,7 @@ This desktop app blocks websites of your choice to help you avoid procrastinatio
 
 ## Requirements
 <li>
-  [Install Python]([url](https://www.python.org/downloads/))
+  [Install Python](https://www.python.org/downloads/)
 </li>
 
 ## Usage
